@@ -1,0 +1,4 @@
+matplotlib
+pandas
+scikit-learn
+mlrose-hiive # gets us NumPy, SciPy and Scikit-Learn
